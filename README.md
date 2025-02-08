@@ -40,6 +40,7 @@ Through this project, I gained hands-on experience in:
 - Enhancing sentiment analysis with multimodal AI (text, images, and video).  
 - Implementing predictive analytics to anticipate trends before they peak.  
 - Developing a mobile app for real-time monitoring and manual control of IoT responses.  
-- Collaborating with brands to test the system for marketing and audience engagement.  
+- Collaborating with brands to test the system for marketing and audience engagement.
+- [AI MEDIA IOT SENTI Project](https://github.com/aasreespace/silver-waffle)
 
 "Updated README with project details"
