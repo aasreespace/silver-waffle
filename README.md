@@ -1,4 +1,5 @@
 # AI Social Media Analyzer & IoT Integration  
+<a href="https://github.com/your-username/repository-name">
 
 ## **Inspiration**  
 The idea for this project came from observing how social media drives real-world actions, from trending topics influencing public opinion to viral movements sparking physical responses. I wanted to bridge this digital impact with IoT, allowing real-world devices to react dynamically to online sentiment.  
@@ -41,6 +42,6 @@ Through this project, I gained hands-on experience in:
 - Implementing predictive analytics to anticipate trends before they peak.  
 - Developing a mobile app for real-time monitoring and manual control of IoT responses.  
 - Collaborating with brands to test the system for marketing and audience engagement.
-- [AI MEDIA IOT SENTI Project](https://github.com/aasreespace/silver-waffle)
+
 
 "Updated README with project details"
